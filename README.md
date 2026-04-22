@@ -15,5 +15,3 @@ This project calculates CGPA based on user input of grades and credit hours.
 1. Compile using g++
 2. Run the executable
 
-## Author
-Your Name
